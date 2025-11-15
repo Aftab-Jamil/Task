@@ -1,3 +1,4 @@
+// this is just to understand the git clone and status command
 class EmailService {
   constructor(providers, options = {}) {
     this.providers = providers; // List of email providers
